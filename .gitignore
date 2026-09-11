@@ -1,2 +1,5 @@
 .python*
 *_env
+gen_images/
+root_images/
+models
