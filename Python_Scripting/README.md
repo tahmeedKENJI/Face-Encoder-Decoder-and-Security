@@ -42,8 +42,8 @@ This repository contains the code for the **Arc2Face** implementation. It includ
    ```bash
    python setup_pkg.py
    ```
-
-2. Verify that the `models` folder is created successfully.
+2. Delete `glintr100.onnx` from `models\antelopev2`. Make sure `arc2face.onnx` is present (I missed this step. And wasted 12 whole hours wondering why are the face reconstructions so broken. I might sound like AI and annoy some people. Have fun with it. Anyway, make sure this step is enforced.)
+3. Verify that the `models` folder is created successfully.
 
 ### Usage
 
