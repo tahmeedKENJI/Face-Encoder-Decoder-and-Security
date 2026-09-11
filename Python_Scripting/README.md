@@ -14,7 +14,7 @@ This repository contains the code for the **Arc2Face** implementation. It includ
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/tahmeedKENJI/Face-Encoder-Decoder-and-Security.git <repository_directory>
    cd <repository_directory>/Python_Scripting
    ```
 
@@ -135,6 +135,6 @@ If you have any questions, suggestions, or issues, feel free to reach out:
 - **Name**: S M Tahmeed Reza
 - **Email**: tahmeedreza@gmail.com
 - **GitHub**: [tahmeedKENJI](https://github.com/tahmeedKENJI)
-- **LinkedIn**: [S. M. Tahmeed Reza](www.linkedin.com/in/s-m-tahmeed-reza-1b1870322)
+- **LinkedIn**: [S. M. Tahmeed Reza](https://www.linkedin.com/in/s-m-tahmeed-reza-1b1870322)
 
 ---
