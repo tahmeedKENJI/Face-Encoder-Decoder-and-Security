@@ -1,0 +1,6 @@
+[submodule "Python_Scripting/Arc2Face"]
+	path = Python_Scripting/Arc2Face
+	url = https://github.com/foivospar/Arc2Face.git
+[submodule "Python_Scripting/FaceCloak"]
+	path = Python_Scripting/FaceCloak
+	url = https://github.com/sudban3089/FaceCloak.git
