@@ -2,4 +2,6 @@
 *_env
 gen_images/
 root_images/
+dis_images/
+StyleGAN3Templates/
 models
